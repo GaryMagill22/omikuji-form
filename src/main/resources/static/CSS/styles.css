@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+
+
+
+
+h1 {
+	text-align: center;
+}
+
+.displayBox {
+	margin: 0 auto;
+	color: black;
+	width: 300px;
+	border: 1px solid black;
+	background-color: #b3b1ec;
+	text-align: center;
+}
+
+
+.btn {
+	color: white;
+	background-color: blue;
+}
